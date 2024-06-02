@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: bhavanijyostna/batch13:4
+        image: bhavanijyostna/batch13:5
         ports:
         - containerPort: 8080
 
